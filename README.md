@@ -34,9 +34,7 @@ A robust full-stack banking web application that started as a Java console app a
 ---
 
 ### 🌐 Let's Connect
-
-- [LinkedIn](www.linkedin.com/in/pranav-mane-1655pm) <!-- Replace with your actual LinkedIn -->
-- [GitHub](https://github.com/Pranav0051) <!-- Replace with your actual GitHub username -->
+<p align="left"> <a href="https://www.linkedin.com/in/pranav-mane-1655pm" target="_blank" title="LinkedIn" style="text-decoration: none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/> </a> &nbsp; <a href="https://github.com/Pranav0051" target="_blank" title="GitHub" style="text-decoration: none;"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" height="30"/> </a> &nbsp; <a href="mailto:pranavmane2222@gmail.com" title="Email" style="text-decoration: none;"> <img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" alt="Email" width="30" height="30"/> </a> </p>
 
 ---
 
